@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Computer Science Undergraduate
+I am a Computer Science Undergraduate.
 I love to learn new and interesting things and want to explore, excel and develop alongside an institution/organization that offers best practices, and provides diverse knowledge in the current domain I am in, with a penchant of meeting deadlines.<br />
 
 - 🔭 I've worked on various Machine Learning and WebDevlopment Projects, major one being deployed at <a href="http://ccet.ac.in">CCET's College Website</a><br />
