@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a Computer Science Undergraduate, presently in my fifth semester of the Bachelor's degree.
+I am a Computer Science Undergraduate
 I love to learn new and interesting things and want to explore, excel and develop alongside an institution/organization that offers best practices, and provides diverse knowledge in the current domain I am in, with a penchant of meeting deadlines.<br />
 
 - 🔭 I've worked on various Machine Learning and WebDevlopment Projects, major one being deployed at <a href="http://ccet.ac.in">CCET's College Website</a><br />
@@ -8,7 +8,6 @@ I love to learn new and interesting things and want to explore, excel and develo
 - 📫 How to reach me:&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/mukesh-sahani-27297318b/"><img src="https://image.flaticon.com/icons/png/512/174/174857.png" width="25px;"></a> &nbsp;&nbsp;&nbsp;&nbsp;
 - 😄 Pronouns: HardWorking, TeamLeader, Passionate <br />
-- ⚡ Fun fact: I am a good entertainer at times.<br />
 <h2><b>Languages and Tool's ⚙️ </b></h2> 
 <img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Python3" width="50px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
